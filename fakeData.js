@@ -31,7 +31,7 @@ const ListGame = [
     caption: "Giải đố kinh dị",
     description:
       "Firework là game giải đố kinh dị lấy cảm hứng từ phương Đông. Cũng giống như Detention, trò chơi này sẽ mang đến một cốt truyện đầy ám ảnh và bầu không khí rùng rợn khó quên.",
-    link: "https://codepen.io/jcoulterdesign/full /WNxjVbW",
+    link: "https://codepen.io/jcoulterdesign/full/WNxjVbW",
   },
   {
     id: 4,
