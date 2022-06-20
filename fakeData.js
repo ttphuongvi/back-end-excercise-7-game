@@ -11,7 +11,7 @@ const ListGame = [
     caption: "Qua cầu",
     description:
       "Trò chơi này có một gia đình đang ở trên một vách đá cao và cố gắng đến vách đá đối diện thông qua một khúc gỗ lớn, mỗi người trong số họ có một thời gian di chuyển khác nhau.",
-    link: "",
+    link: "https://codepen.io/HunorMarton/full/xxOMQKg",
   },
   {
     id: 2,
@@ -21,6 +21,7 @@ const ListGame = [
     caption: "Bắn chim",
     description:
       "SHOOT DUCK là một trò chơi săn chim phiêu lưu mạo hiểm mới được phát hành, bây giờ bạn có thể trải nghiệm cuộc sống thực sự săn chim trên thiết bị di động!",
+    link: "https://codepen.io/elad2412/full/DBeNNZ",
   },
   {
     id: 3,
@@ -30,6 +31,7 @@ const ListGame = [
     caption: "Giải đố kinh dị",
     description:
       "Firework là game giải đố kinh dị lấy cảm hứng từ phương Đông. Cũng giống như Detention, trò chơi này sẽ mang đến một cốt truyện đầy ám ảnh và bầu không khí rùng rợn khó quên.",
+    link: "https://codepen.io/jcoulterdesign/full /WNxjVbW",
   },
   {
     id: 4,
@@ -39,6 +41,7 @@ const ListGame = [
     caption: "Tìm hình giống nhau",
     description:
       "Tìm hình giống nhau là một game giải trí nhẹ nhàng dành cho các em nhỏ giúp rèn luyện khả năng ghi nhớ thông qua việc lật mở các ô để tìm đúng các cặp hình giống nhau. ",
+    link: "https://codepen.io/leemartin/full/VwQQVZQ",
   },
   {
     id: 5,
@@ -48,6 +51,7 @@ const ListGame = [
     caption: "Cờ vua",
     description:
       "Cờ vua là một trò chơi chiến thuật dành cho hai người rất phổ biến. Để thắng ván cờ, bạn phải 'chiếu hết' đối thủ bằng cách di chuyển các quân cờ sao cho quân Vua của đối phương rơi vào thế đe doạ...",
+    link: "https://codepen.io/jakealbaugh/full/JjRGQPY",
   },
   {
     id: 7,
@@ -57,6 +61,7 @@ const ListGame = [
     caption: "Quay số trúng thưởng",
     description:
       "Quay số trúng thưởng là trình tạo số ngẫu nhiên. Bộ chọn mục danh sách ngẫu nhiên (bạn có thể tạo danh sách của riêng mình và nhận giá trị ngẫu nhiên từ nó).",
+    link: "https://codepen.io/AdrianSandu/embed/MyBQYz?height=538&theme-id=dark&default-tab=result",
   },
   {
     id: 8,
@@ -66,6 +71,7 @@ const ListGame = [
     caption: "Oẳn tù tì",
     description:
       "Oẳn tù tì không chỉ là một trò chơi may rủi, mà là một hệ thống chiến lược với nền tảng tâm lý vững chắc.Bạn có thể khai thác hành vi của đối thủ của bạn không? Chỉ có một cách để tìm hiểu! Chơi ngay!",
+    link: "https://codepen.io/alvaromontoro/full/BaaBYyz",
   },
   {
     caption: "Gắp bóng",
