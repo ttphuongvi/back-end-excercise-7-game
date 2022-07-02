@@ -125,7 +125,7 @@
       "release": "2018-04-06",
       "image": "https://media.discordapp.net/attachments/897437791867261012/988041372672090132/ban-chim.png?width=1383&height=600",
       "caption": "Bắn chim",
-      "description": "SHOOT DUCK là một trò chơi săn chim phiêu lưu mạo hiểm mới được phát hành, bây giờ bạn có thể trải nghiệm cuộc sống thực sự săn chim trên thiết bị di động! Nó mang đến cho bạn trải nghiệm mô phỏng chim bay thực sự và trải nghiệm bắn súng ShortGun với rất nhiều loài chim. Phát triển kỹ năng của bạn như một thợ săn chim bằng cách bắn hạ càng nhiều vịt càng tốt trong một khoảng thời gian giới hạn. Đây là một trong những cuộc phiêu lưu săn bắn trong rừng phổ biến nhất trên thế giới. Chúng tôi mang đến cho bạn những cuộc phiêu lưu bắn chim bay cực chất trong một môi trường rừng safari thực tế. Cảm giác như đang bắn chim như một thợ săn chuyên nghiệp. Đối với những người yêu thích cuộc phiêu lưu trong cuộc phiêu lưu, hãy trải nghiệm những con chim săn bắn trong trò chơi mô phỏng này.",
+      "description": "SHOOT DUCK là một trò chơi săn chim phiêu lưu mạo hiểm mới được phát hành, bây giờ bạn có thể trải nghiệm cuộc sống thực sự săn chim trên thiết bị di động!\nNó mang đến cho bạn trải nghiệm mô phỏng chim bay thực sự và trải nghiệm bắn súng ShortGun với rất nhiều loài chim. Phát triển kỹ năng của bạn như một thợ săn chim bằng cách bắn hạ càng nhiều vịt càng tốt trong một khoảng thời gian giới hạn. Đây là một trong những cuộc phiêu lưu săn bắn trong rừng phổ biến nhất trên thế giới. Chúng tôi mang đến cho bạn những cuộc phiêu lưu bắn chim bay cực chất trong một môi trường rừng safari thực tế. Cảm giác như đang bắn chim như một thợ săn chuyên nghiệp. Đối với những người yêu thích cuộc phiêu lưu trong cuộc phiêu lưu, hãy trải nghiệm những con chim săn bắn trong trò chơi mô phỏng này.",
       "link": "https://codepen.io/elad2412/full/DBeNNZ"
     },
     {
@@ -183,6 +183,14 @@
       "release": "2022-06-09",
       "link": "https://codepen.io/jcoulterdesign/full/NOMeEb",
       "id": 10
+    },
+    {
+      "caption": "Tiêu diệt Virus Corona",
+      "image": "https://media.discordapp.net/attachments/897437791867261012/988041371954839602/ban-bong.png?width=1383&height=606",
+      "description": "Game Tiêu diệt Corona là game chủ đề bác sĩ chữa bệnh và ngăn ngừa Virus. Game tiêu diệt virus Corona được lấy cảm hứng từ dịch bệnh Covid 19 lây lan khắp hành tinh. Các bạn có thể chơi game tieu diet corona trên mọi thiết bị di động và máy tính .\nLấy cảm hứng từ những y bác sĩ đang ngày đêm vất vả chống chọi lại với căn bênh cúm nguy hiểm Covid 19, Game24h cho ra mắt trò chơi tiêu diệt Corona nhằm nâng cao ý thức phòng chống dịch bệnh của tất cả mọi người.\nNhiệm vụ của bạn trong game tiêu diệt Corona là:\nTiêu diệt virus Corona  Hãy cùng chơi game tiêu diệt Corona để giành chiến thắng bệnh dịch nào!",
+      "release": "2021-07-14",
+      "link": "https://codepen.io/elad2412/full/wvabjXy",
+      "id": 11
     }
   ]
 }
