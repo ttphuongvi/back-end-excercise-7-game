@@ -46,7 +46,6 @@ router.render = (req, res) => {
 server.use('/', router);
 
 // Start server
-const PORT = process.env.PORT || 3001;
-server.listen(PORT, () => {
+server.listen(3001, () => {
     console.log('JSON Server is running');
 });
