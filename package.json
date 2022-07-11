@@ -3,20 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+  "author": "",
+  "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon main.js",
-    "build": "npm i && echo \"success build\" && node main.js",
-    "start": "node main.js",
-    "build-json": "json-server db.json --port 3001"
+    "start": "npm run generate-data && node main.js",
+    "generate-data": "node generate-data.js"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "json-server"
+  ],
   "dependencies": {
     "faker": "^5.5.3",
-    "json-server": "0.16.3"
+    "json-server": "0.16.3",
+    "query-string": "^7.0.0"
   },
   "devDependencies": {
-    "nodemon": "2.0.19"
+    "nodemon": "^2.0.19"
   }
 }
