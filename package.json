@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon main.js",
-    "build": "node main.js",
+    "build": "npm i && echo \"success build\" && node main.js",
     "start": "node main.js",
     "build-json": "json-server --watch db.json --port 3001"
   },
