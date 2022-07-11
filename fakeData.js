@@ -100,10 +100,6 @@ const generatePersonsData = (number) => {
     persons.push({
       id: number,
       name: faker.name.findName(),
-      description: faker.lorem.paragraphs(2),
-      picture: faker.image.avatar(),
-      country: faker.address.country(),
-      joining_date: faker.date.future(),
       email: faker.internet.email(),
       password: faker.internet.password(),
     });
