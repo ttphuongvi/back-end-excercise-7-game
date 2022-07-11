@@ -8,7 +8,7 @@
     "dev": "nodemon main.js",
     "build": "npm i && echo \"success build\" && node main.js",
     "start": "node main.js",
-    "build-json": "json-server --watch db.json --port 3001"
+    "build-json": "json-server db.json --port 3001"
   },
   "author": "",
   "license": "ISC",
