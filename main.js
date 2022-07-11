@@ -1,6 +1,6 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
+const router = jsonServer.router(path.join(__dirname, 'db.json'))
 
 // Add custom routes before JSON Server router
 server.get('/echo', (req, res) => {
@@ -47,5 +47,6 @@ server.use('/', router);
 
 // Start server
 server.listen(3001, () => {
+    
     console.log('JSON Server is running');
 });
